@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    color:green;
+    text-align: center;
+}
+#btn{
+    color:green;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+}

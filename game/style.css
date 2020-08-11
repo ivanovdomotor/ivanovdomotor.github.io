@@ -1,0 +1,12 @@
+body {
+    margin: 0px 0px 0px 0px;
+    background-color: darkslateblue;
+}
+table {
+    border-collapse: collapse;
+}
+
+td{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
